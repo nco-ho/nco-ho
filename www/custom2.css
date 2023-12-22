@@ -1,0 +1,35 @@
+
+
+/* Patricia, wat doet doeze?
+body {
+  width: 100% !important;
+   max-width: 100% !important;
+}
+*/
+
+/* Title always expanded on left side
+ @media (min-width: 768px){
+  .sidebar-mini.sidebar-collapse .main-header .logo {
+      width: 230px;
+  }
+  .sidebar-mini.sidebar-collapse .main-header .navbar {
+      margin-left: 230px;
+  }
+}
+/*
+
+/* Zet tekst en achtergrond kleur van datatable vast */
+table.dataTable.hover tbody tr:hover,
+table.dataTable.display tbody tr:hover {
+  background-color: #5691cc !important;
+  color: white !important;
+}
+
+/* Verberg de sidebar-menu links altijd */
+.shinydashboard-menu-output.shiny-bound-output.sidebar-menu {
+  display: none;
+}
+
+.sidebar-toggle {
+  display: none;
+}

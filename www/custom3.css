@@ -1,0 +1,38 @@
+
+/* currently not needed, old code for fixing header */
+
+/* Zet menu items naast elkaar
+  html body.sidebar-mini div.wrapper header.main-header nav.navbar.navbar-static-top div.navbar-custom-menu ul.nav.navbar-nav li {
+    float:left !important;
+    margin-top: 0px !important;
+
+  }
+html body.sidebar-mini div.wrapper header.main-header nav.navbar.navbar-static-top div.navbar-custom-menu ul.nav.navbar-nav li.dropdown ul.sidebar-menu li {
+  background-color: #3fff2d !important;
+    color:white !important;
+}
+html body.sidebar-mini div.wrapper header.main-header nav.navbar.navbar-static-top div.navbar-custom-menu ul.nav.navbar-nav li.dropdown ul.sidebar-menu li a {
+  background-color: #3c8dbc !important;
+    color:white !important;
+  margin-left: 0px;
+  border: 2px solid #3c8dbc !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+*/
+/* Actieve tabs
+  html body.sidebar-mini div.wrapper header.main-header nav.navbar.navbar-static-top div.navbar-custom-menu ul.nav.navbar-nav li.dropdown ul.sidebar-menu li.active {
+    background-color: #ecf0f5 !important;
+      color:#3c8dbc !important;
+  }
+
+html body.sidebar-mini div.wrapper header.main-header nav.navbar.navbar-static-top div.navbar-custom-menu ul.nav.navbar-nav li.dropdown ul.sidebar-menu li.active a {
+  background-color: #ecf0f5 !important;
+    color:#3c8dbc !important;
+    margin-left: 0px;
+  border: 2px solid #3c8dbc !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+*/
+
