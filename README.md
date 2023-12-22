@@ -1,21 +1,5 @@
-# ShinyProxy Template
+# Pilot NCO Hoger onderwijs
 
-This repository provides a template to deploy your own Shiny apps on [ShinyProxy](https://www.shinyproxy.io).
+In dit dashboard wordt synthetische data van een instelling in het hoger onderwijs gekoppeld aan CBS-data om zo een rijker beeld te geven over de toegankelijkheid van het hoger onderwijs, switchgedrag en de uitstroom naar de arbeidsmarkt.
 
-Full explanation on the contents of this repository is offered at
-
-https://www.shinyproxy.io/deploying-apps/
-
-The purpose of this repository is to customize it for your needs, but if you want to build a Docker image from the Dockerfile in this repository, navigate into the root directory of this repository and run
-
-```
-sudo docker build -t openanalytics/shinyproxy-template .
-```
-
-Running the image for testing purposes outside ShinyProxy can be done using e.g.
-
-```
-sudo docker run -it -p 3838:3838 openanalytics/shinyproxy-template
-```
-
-(c) Copyright Open Analytics NV, 2016-2018.
+Voor meer informatie over de onderliggende bestanden en packages, zie de [documentatie](https://nco-ho.quarto.pub/uitleg-pilot-nco-ho/).
